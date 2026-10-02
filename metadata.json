@@ -1,0 +1,8 @@
+{
+  "name": "Várzea FC 27 Mobile Fan Game",
+  "description": "Várzea FC 27 Mobile Fan Game - Personalização de jogadores, cabelos, opções de jogo e partidas eletrizantes no campo da várzea.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
